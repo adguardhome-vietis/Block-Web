@@ -1,0 +1,21 @@
+Blocked services:
+Trang 1 Không chặn Skype, Spotify
+Trang 2 Không chặn Amazon, Linkedln
+Trang 3 Không chặn CloudFlare, Netflix, Telegram
+
+Client Setting:
+
+Allow_Facebook_Youtube: Bỏ thời gian nghỉ trưa
+Trang 1 Không chặn Skype, Spotify, Facebook
+Trang 2 Không chặn Amazon, Linkedln
+Trang 3 Không chặn CloudFlare, Netflix, Telegram, Youtube
+
+Allow_Yotube Block FB: Có mở trong thời gian nghỉ trưa
+Trang 1 Không chặn Skype, Spotify
+Trang 2 Không chặn Amazon, Linkedln
+Trang 3 Không chặn CloudFlare, Netflix, Telegram, Youtube
+
+Allow_Fb Block Yotube: Có mở trong thời gian nghỉ trưa
+Trang 1 Không chặn Skype, Spotify, Facebook
+Trang 2 Không chặn Amazon, Linkedln
+Trang 3 Không chặn CloudFlare, Netflix, Telegram

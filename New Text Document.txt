@@ -108,7 +108,7 @@
 ||proxyforall.com^
 ||vnexpress.net^
 ||dantri.com^
-||24h.com^
+||24h.com.vn^
 ||vietnamnet.vn^
 ||thanhnien.com^
 ||nld.com^
@@ -237,3 +237,4 @@
 ||streamfile.com^
 ||wetransfer.com^
 ||fptplay.vn^
+||dantri.com.vn^
